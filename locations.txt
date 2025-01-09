@@ -1,0 +1,12 @@
+Waterfall
+	Water straight from the source maybe you don't need to purify it
+Beach
+	The place you awake after your ship crash
+Forest
+	A tropical forest you don't know what dangers hide inside
+Swamp
+	You didn't expect to find a swamp on this island. For your safety you should maybe stay away
+Vulcano
+	A huge mountain that seems to be a vulcano from afar. Maybe you should progress with caution
+Village
+	A village somewhere on this island.You know nothing about the natives. Maybe you shoudn't disturb them 
